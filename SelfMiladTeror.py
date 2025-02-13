@@ -20,7 +20,7 @@ api_hash = '1927781e464130a9180bbeaf832bf5eb'
 
 client  = TelegramClient('session', api_id, api_hash)
 # آی‌دی تلگرام شما
-allowed_user_id = 5066991479  # آی‌دی خودتان را اینجا وارد کنید
+allowed_user_id = 7005191078  # آی‌دی خودتان را اینجا وارد کنید
 
 # لیست دشمنان و دوستان و گزارشات
 enemies = {}
